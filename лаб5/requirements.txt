@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+matplotlib
+beautifulsoup4
+sqlalchemy
+pytest
+pyyaml
+flask
+pyttsx3
